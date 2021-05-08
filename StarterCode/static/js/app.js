@@ -17,3 +17,7 @@ function cTable(data) {
         })
     })
 }
+
+function clickButton() {
+
+}
